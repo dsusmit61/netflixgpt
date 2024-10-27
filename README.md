@@ -18,3 +18,10 @@ Browse - /browse (Only accessible when user is authenticated otherwise redirect 
   - Buttons
 - Movie Suggestions
   - List of movies
+
+Create React App
+Configure TailwindCSS
+Header
+Routing
+Sign In Form / Sign Up Form
+Form Validation / useRef Hook
